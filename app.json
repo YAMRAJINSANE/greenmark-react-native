@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "GreenMark",
+    "slug": "greenmark",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F2F2"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
